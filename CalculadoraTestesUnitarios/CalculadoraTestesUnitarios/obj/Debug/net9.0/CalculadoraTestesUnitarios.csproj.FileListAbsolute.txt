@@ -1,0 +1,12 @@
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\bin\Debug\net9.0\CalculadoraTestesUnitarios.deps.json
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\bin\Debug\net9.0\CalculadoraTestesUnitarios.dll
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\bin\Debug\net9.0\CalculadoraTestesUnitarios.pdb
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\CalculadoraTestesUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\CalculadoraTestesUnitarios.AssemblyInfoInputs.cache
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\CalculadoraTestesUnitarios.AssemblyInfo.cs
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\CalculadoraTestesUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\CalculadoraTestesUnitarios.sourcelink.json
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\CalculadoraTestesUnitarios.dll
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\refint\CalculadoraTestesUnitarios.dll
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\CalculadoraTestesUnitarios.pdb
+C:\Users\kaiqu\OneDrive\Área de Trabalho\Testes_Unitarios_Csharp\CalculadoraTestesUnitarios\CalculadoraTestesUnitarios\obj\Debug\net9.0\ref\CalculadoraTestesUnitarios.dll
